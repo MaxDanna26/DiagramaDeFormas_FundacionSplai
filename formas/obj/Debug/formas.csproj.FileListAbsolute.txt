@@ -1,0 +1,7 @@
+C:\Users\Maxim\OneDrive\Escritorio\.net\formas\formas\bin\Debug\formas.exe.config
+C:\Users\Maxim\OneDrive\Escritorio\.net\formas\formas\bin\Debug\formas.exe
+C:\Users\Maxim\OneDrive\Escritorio\.net\formas\formas\bin\Debug\formas.pdb
+C:\Users\Maxim\OneDrive\Escritorio\.net\formas\formas\obj\Debug\formas.csproj.AssemblyReference.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\formas\formas\obj\Debug\formas.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\formas\formas\obj\Debug\formas.exe
+C:\Users\Maxim\OneDrive\Escritorio\.net\formas\formas\obj\Debug\formas.pdb
